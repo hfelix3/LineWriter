@@ -20,7 +20,7 @@
 
 ## Description
 
-LineWriter; 
+LineWriter; This challenge demonstrates the concepts learned so far. I am tasked wit building a text editor that runs in the browser online and offline making use of persistence techniques to store data. 
 
 ## Table of Contents
 
