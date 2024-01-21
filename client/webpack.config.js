@@ -18,7 +18,7 @@ module.exports = () => {
       // TODO: Add and configure workbox plugins for a service worker and manifest file.
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: ''
+        title: 'JATE'
       }),
      
       new InjectManifest({
@@ -30,12 +30,12 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: '',
-        short_name: '',
+        short_name: 'JATE',
         description: '',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
