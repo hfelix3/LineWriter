@@ -48,20 +48,14 @@ npm start
 
 ```
 
-In your browser, navigate to http://localhost:3001/
+In your browser, navigate to http://localhost:3000/
 
 
 ## Usage
 
-Open the application here: < url >
+You can use this application to store notes online and offline.
 
-Log in or create a new account.
-
-< Insert picture >
-
-Once you have logged in, navigate to .
-
-< Insert picture >
+To use offline download by clicking the install button at the top left corner.
 
 
 ## Deployed Application
