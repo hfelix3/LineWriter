@@ -84,7 +84,7 @@ Your changes will be reviewed and approved as appropriate.
 
 ### [Github Profile](https://github.com/hfelix3/LineWriter/)
 
-### [Walkthrough video]()
+### [Heroku Link]()
 
 # MIT License
 
