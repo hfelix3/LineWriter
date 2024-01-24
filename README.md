@@ -66,7 +66,8 @@ Once you have logged in, navigate to .
 
 ## Deployed Application
 
-![Image](./public/images/localhost_3001.png)
+![Screenshot 2024-01-24 at 12 10 32 AM](https://github.com/hfelix3/LineWriter/assets/141383937/6eea851d-a933-48f1-ba7e-41b4d753d06a)
+
 
 ## How to contribute
 
@@ -84,7 +85,7 @@ Your changes will be reviewed and approved as appropriate.
 
 ### [Github Profile](https://github.com/hfelix3/LineWriter/)
 
-### [Heroku Link]()
+### [Heroku Link](https://fast-harbor-35352-127df002d491.herokuapp.com/)
 
 # MIT License
 
